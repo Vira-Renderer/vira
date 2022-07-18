@@ -1,4 +1,4 @@
-# The Ray Tracer formerly known as CERES
+# Vira Renderer
 
 ## File Structure Description:
 - `external/`: Collection of external third-party libraries used (but unedited) but this project
@@ -10,7 +10,7 @@
 First clone the repository with all submodules:
 
 ```
-git clone --recurse-submodules -j8 git@github.com:ceres-navigation/crt2.git
+git clone --recurse-submodules -j8 git@github.com:Vira-Renderer/vira.git
 ```
 
 Run the setup script (to configure third party libraries):
