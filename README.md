@@ -1,4 +1,4 @@
-# Vira Renderer
+# <img src="https://raw.githubusercontent.com/Vira-Renderer/logos/main/vira-wide.png" width="400">
 
 ## File Structure Description:
 - `external/`: Collection of external third-party libraries used (but unedited) but this project
